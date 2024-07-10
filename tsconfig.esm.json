@@ -1,0 +1,9 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+        "target": "esnext",
+        "noEmit": false,
+        "importHelpers": true,
+        "outDir": "./lib/esm"
+    }
+}
