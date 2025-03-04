@@ -2,7 +2,8 @@
 
 ## Overview
 
-This is the Node.js SDK designed to interact with the Fleet REST API, enabling developers to manage game servers efficiently. This SDK leverages the robust and scalable solutions offered by ODIN Fleet, making it easier to deploy and manage game servers across a global network.
+This is the Node.js SDK designed to interact with the [ODIN Fleet REST API](https://docs.4players.io/fleet/api/restapi/), enabling developers to manage game servers efficiently. This SDK leverages the robust and scalable solutions offered by [ODIN Fleet](https://odin.4players.io/fleet/), making it easier to deploy and manage game servers across a global network.
+You can find further technical information on **ODIN Fleet** in our [developer documentation](https://docs.4players.io/fleet/).
 
 ## Features
 
@@ -261,7 +262,7 @@ This will download the current API specs from the backend and generate the clien
 
 ## API Documentation
 
-The full API documentation is available in the OpenAPI specs: [Fleet API Documentation](https://fleet.4players.io/docs/).
+The full API documentation is available in the OpenAPI specs: [Fleet API Documentation](https://docs.4players.io/fleet/api/).
 
 ## Support
 
